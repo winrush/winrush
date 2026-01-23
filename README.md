@@ -1,4 +1,4 @@
-# winrush — Web3 Developer & Security Researcher
+# ByteBandit — Web3 Developer & Security Researcher
 
 Hi — I'm ByteBandit, a Web3 developer and professional smart contract security researcher, ethical hacker, and penetration tester focused on building secure, scalable decentralized applications, smart contracts, developer tooling, and conducting deep security research.
 
